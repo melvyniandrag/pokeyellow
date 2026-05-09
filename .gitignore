@@ -27,8 +27,7 @@
 
 # save game files
 *.sgm
-*.sav
 *.rtc
 *.sn*
-*.sa*
+/*.sa*
 *.sg1
