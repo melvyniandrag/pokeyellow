@@ -1,0 +1,5 @@
+2f34 -> type
+2f35,2f36-> hp
+2f37 -> level
+2f38 -> status
+2f39,2f3A -> type(electric)2f39,2f3A -> type(electric)
